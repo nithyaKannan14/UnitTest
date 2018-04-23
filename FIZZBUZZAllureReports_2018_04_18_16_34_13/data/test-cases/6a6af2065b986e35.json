@@ -1,0 +1,45 @@
+{
+  "uid" : "6a6af2065b986e35",
+  "name" : "FizzBuzzer.Tests.FizzBuzzerTests.ValidateInputValueNotDivisible",
+  "fullName" : "FizzBuzzer.Tests.FizzBuzzerTests.FizzBuzzer.Tests.FizzBuzzerTests.ValidateInputValueNotDivisible",
+  "historyId" : "5829b01e94ddc55b73f455814076ea7e",
+  "time" : {
+    "start" : 1524069238942,
+    "stop" : 1524069238972,
+    "duration" : 30
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "FizzBuzzer.Tests.FizzBuzzerTests"
+  }, {
+    "name" : "testClass",
+    "value" : "FizzBuzzer.Tests.FizzBuzzerTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "FizzBuzzer.Tests.FizzBuzzerTests.ValidateInputValueNotDivisible"
+  }, {
+    "name" : "package",
+    "value" : "FizzBuzzer.Tests.FizzBuzzerTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a6af2065b986e35.json",
+  "parameterValues" : [ ]
+}

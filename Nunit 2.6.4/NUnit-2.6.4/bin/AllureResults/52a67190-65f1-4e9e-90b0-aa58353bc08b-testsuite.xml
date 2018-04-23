@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<test-suite xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" start="1524065171334" stop="1524065171714" version="1.4.0" xmlns="urn:model.allure.qatools.yandex.ru">
+  <name xmlns="">FizzBuzzer.Tests.FizzBuzzerTests</name>
+  <test-cases xmlns="">
+    <test-case start="1524065171368" stop="1524065171677" status="failed">
+      <name>FizzBuzzer.Tests.FizzBuzzerTests.ValidateInputValueNotDivisible</name>
+      <failure>
+        <message>inputValue not equals to return value</message>
+        <stack-trace>   at NUnit.Framework.Assert.Fail(String message, Object[] args)
+   at FizzBuzzer.Tests.FizzBuzzerTests.ValidateInputValueNotDivisible() in C:\Users\nithya.a.kannan\source\repos\FizzBuzz\FizzBuzzer.Tests\FizzBuzzerTests.cs:line 52</stack-trace>
+      </failure>
+      <attachments>
+        <attachment />
+      </attachments>
+    </test-case>
+    <test-case start="1524065171682" stop="1524065171694" status="passed">
+      <name>FizzBuzzer.Tests.FizzBuzzerTests.ValidateWordBuzz</name>
+    </test-case>
+    <test-case start="1524065171698" stop="1524065171702" status="passed">
+      <name>FizzBuzzer.Tests.FizzBuzzerTests.ValidateWordFizz</name>
+    </test-case>
+    <test-case start="1524065171705" stop="1524065171710" status="passed">
+      <name>FizzBuzzer.Tests.FizzBuzzerTests.ValidateWordFizzBuzz</name>
+    </test-case>
+  </test-cases>
+</test-suite>

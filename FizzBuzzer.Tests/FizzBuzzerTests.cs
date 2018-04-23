@@ -45,11 +45,11 @@ namespace FizzBuzzer.Tests
         [Test]
         public void ValidateInputValueNotDivisible()
         {
-            int inputValue = 8;
+            int inputValue = 3;
             string returnWord = fizzBuzzer.Generate(inputValue);
-            if (returnWord.Equals(inputValue.ToString()))
+            if (!returnWord.Equals(inputValue.ToString()))
             {
-                Assert.Pass("inputValue equals to return value");
+                Assert.Fail("inputValue not equals to return value");
             }         
 
         }

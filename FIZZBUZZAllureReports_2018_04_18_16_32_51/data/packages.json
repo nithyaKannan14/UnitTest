@@ -1,0 +1,57 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "FizzBuzzer.Tests.FizzBuzzerTests",
+    "children" : [ {
+      "name" : "FizzBuzzer.Tests.FizzBuzzerTests.ValidateInputValueNotDivisible",
+      "uid" : "d3e2450c3e649a6e",
+      "parentUid" : "a2e31a953d230bffc64da07d8668572d",
+      "status" : "failed",
+      "time" : {
+        "start" : 1524069129486,
+        "stop" : 1524069130035,
+        "duration" : 549
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "FizzBuzzer.Tests.FizzBuzzerTests.ValidateWordBuzz",
+      "uid" : "84d607cd2c4b0186",
+      "parentUid" : "a2e31a953d230bffc64da07d8668572d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1524069130045,
+        "stop" : 1524069130067,
+        "duration" : 22
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "FizzBuzzer.Tests.FizzBuzzerTests.ValidateWordFizz",
+      "uid" : "21b6640c399011be",
+      "parentUid" : "a2e31a953d230bffc64da07d8668572d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1524069130071,
+        "stop" : 1524069130078,
+        "duration" : 7
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "FizzBuzzer.Tests.FizzBuzzerTests.ValidateWordFizzBuzz",
+      "uid" : "55555a18f11b5bce",
+      "parentUid" : "a2e31a953d230bffc64da07d8668572d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1524069130086,
+        "stop" : 1524069130093,
+        "duration" : 7
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "FizzBuzzer.Tests.FizzBuzzerTests"
+  } ]
+}

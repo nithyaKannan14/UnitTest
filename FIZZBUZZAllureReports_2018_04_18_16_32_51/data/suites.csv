@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"passed","FizzBuzzer.Tests.FizzBuzzerTests.FizzBuzzer.Tests.FizzBuzzerTests.ValidateWordFizzBuzz","7",""
+"passed","FizzBuzzer.Tests.FizzBuzzerTests.FizzBuzzer.Tests.FizzBuzzerTests.ValidateWordBuzz","22",""
+"passed","FizzBuzzer.Tests.FizzBuzzerTests.FizzBuzzer.Tests.FizzBuzzerTests.ValidateWordFizz","7",""
+"failed","FizzBuzzer.Tests.FizzBuzzerTests.FizzBuzzer.Tests.FizzBuzzerTests.ValidateInputValueNotDivisible","549",""

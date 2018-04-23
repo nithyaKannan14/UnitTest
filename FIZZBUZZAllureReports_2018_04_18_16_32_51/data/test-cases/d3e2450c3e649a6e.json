@@ -1,0 +1,69 @@
+{
+  "uid" : "d3e2450c3e649a6e",
+  "name" : "FizzBuzzer.Tests.FizzBuzzerTests.ValidateInputValueNotDivisible",
+  "fullName" : "FizzBuzzer.Tests.FizzBuzzerTests.FizzBuzzer.Tests.FizzBuzzerTests.ValidateInputValueNotDivisible",
+  "historyId" : "5829b01e94ddc55b73f455814076ea7e",
+  "time" : {
+    "start" : 1524069129486,
+    "stop" : 1524069130035,
+    "duration" : 549
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "inputValue not equals to return value",
+  "statusTrace" : "   at NUnit.Framework.Assert.Fail(String message, Object[] args)\n   at FizzBuzzer.Tests.FizzBuzzerTests.ValidateInputValueNotDivisible() in C:\\Users\\nithya.a.kannan\\source\\repos\\FizzBuzz\\FizzBuzzer.Tests\\FizzBuzzerTests.cs:line 52",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "inputValue not equals to return value",
+    "statusTrace" : "   at NUnit.Framework.Assert.Fail(String message, Object[] args)\n   at FizzBuzzer.Tests.FizzBuzzerTests.ValidateInputValueNotDivisible() in C:\\Users\\nithya.a.kannan\\source\\repos\\FizzBuzz\\FizzBuzzer.Tests\\FizzBuzzerTests.cs:line 52",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f96f0cb9753db931",
+      "name" : "Screenshot",
+      "source" : "f96f0cb9753db931.png",
+      "type" : "image/png",
+      "size" : 186397
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "FizzBuzzer.Tests.FizzBuzzerTests"
+  }, {
+    "name" : "testClass",
+    "value" : "FizzBuzzer.Tests.FizzBuzzerTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "FizzBuzzer.Tests.FizzBuzzerTests.ValidateInputValueNotDivisible"
+  }, {
+    "name" : "package",
+    "value" : "FizzBuzzer.Tests.FizzBuzzerTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "d3e2450c3e649a6e.json",
+  "parameterValues" : [ ]
+}

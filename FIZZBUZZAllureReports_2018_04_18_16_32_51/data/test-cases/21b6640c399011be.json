@@ -1,0 +1,45 @@
+{
+  "uid" : "21b6640c399011be",
+  "name" : "FizzBuzzer.Tests.FizzBuzzerTests.ValidateWordFizz",
+  "fullName" : "FizzBuzzer.Tests.FizzBuzzerTests.FizzBuzzer.Tests.FizzBuzzerTests.ValidateWordFizz",
+  "historyId" : "156c246defd64b41757f5d7e6bc6573e",
+  "time" : {
+    "start" : 1524069130071,
+    "stop" : 1524069130078,
+    "duration" : 7
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "FizzBuzzer.Tests.FizzBuzzerTests"
+  }, {
+    "name" : "testClass",
+    "value" : "FizzBuzzer.Tests.FizzBuzzerTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "FizzBuzzer.Tests.FizzBuzzerTests.ValidateWordFizz"
+  }, {
+    "name" : "package",
+    "value" : "FizzBuzzer.Tests.FizzBuzzerTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "21b6640c399011be.json",
+  "parameterValues" : [ ]
+}
